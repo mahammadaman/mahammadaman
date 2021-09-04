@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahammadaman
 - 👀 I’m interested in Dealing with unexpected stuffs
-- 🌱 I’m currently learning Android,java,php,...
-💞️ I’m looking to collaborate on Android apps devlopment
+- 🌱 I’m currently learning Android,java,php.
+-💞️ I’m looking to collaborate on Android apps devlopment
 - 📫 How to reach me ...
 
 <!---
